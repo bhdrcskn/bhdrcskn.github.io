@@ -1,12 +1,12 @@
 {
-  "name": "jekyll-theme-minimal-resume",
+  "name": "	Bahadır Coşkun",
   "version": "1.0.0",
-  "description": "This is a simple Jekyll theme for a minimal resume website.",
+  "description": "Kişisel Web Sitesi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mauricio Urraco <mauriurraco@gmail.com>",
+  "author": " ",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.27.10",
