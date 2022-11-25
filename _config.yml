@@ -14,8 +14,8 @@ instagram_username:
 facebook_username: 
 linkedin_username: bhdrcskn
 github_username:  bhdrcskn
-medium_username: bahadircoskun
-# medium_url: 
+#medium_username: 
+medium_url: https://medium.com/@bahadircoskun
 # gplus_username:  
 
 exclude: ['package.json', 'src' , 'node_modules']
